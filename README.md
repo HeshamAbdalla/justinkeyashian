@@ -1,4 +1,2 @@
-# Unminify-junkes
+# Version 1 of the single wep page application for Dr Justin Keyashian
 
-
-This is the unminify version of the junkes application.
